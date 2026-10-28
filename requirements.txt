@@ -1,0 +1,5 @@
+numpy>=1.26.4,<3
+opencv-python>=4.8,<5
+scipy>=1.11,<2
+music21>=9.1,<10
+pypdfium2>=4.30,<6
